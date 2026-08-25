@@ -63,7 +63,6 @@ Items below are tagged by how settled they are: `v1.0+` matches the published te
 
 **C-E-A Framework** `v0.x` — spec in [`/pending/cea-framework`](./pending/cea-framework) · [SSRN preprint →](https://dx.doi.org/10.2139/ssrn.7208279)
 
-Doesn't yet map cleanly to an existing chapter (candidates: Ch. 8 — Personal Responsibilities, or Ch. 9 — Thinking Partner), or may point toward a chapter for a future edition. Stays here until that's decided.
 
 ---
 
