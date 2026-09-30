@@ -46,7 +46,7 @@ Each chapter links to the published theory in the textbook, plus whatever is cur
 ### Chapter 6 — Public Health Domain Data for AI
 [Textbook chapter →](https://doi.org/10.1007/978-3-032-15872-7_6)
 
-**Metadata of AI-powered Personal Health Records** `v0.x` (Metadata-aware C-E-A Framework for AI Agents in AI-powered Personal Health Records, Migraine and Type 2 Diabetes) [SSRN preprint →](http://dx.doi.org/10.2139/ssrn.7518960)
+**Metadata of AI-powered Personal Health Records** `v0.x` (AI-powered PHRs for Migraine and Type 2 Diabetes) [SSRN preprint →](http://dx.doi.org/10.2139/ssrn.7518960)
 
 **ICV-6-3 concept map** (personal health data concepts) `v0.x` — [Live map →](https://min-ph.github.io/ICV-6-3/)
 
